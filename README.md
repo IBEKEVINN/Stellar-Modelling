@@ -1,5 +1,6 @@
 # Stellar-Modelling
-A stellar model script used to calculate the interior structure of a star.
+
+**A stellar model script used to calculate the interior structure of a star.**
 
 Uses the main 4 stellar structure equations to calculate radius, luminosty, pressure and temperature from the centre of a star to its surface.
 
